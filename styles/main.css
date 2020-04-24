@@ -4,14 +4,6 @@ body{
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
-}
-
 .changeButton {
     border: 2px solid #003366;
     border-radius: 24px;
